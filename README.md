@@ -35,6 +35,7 @@ I'm looking for my next role to work on great projects and sound people. Reach o
 - Took the UI of Evalite, an AI evals tool by Matt Pocock, and converted it from Remix to Tanstack Start
 - XState is cool, but data fetching is better in Tanstack Query. Converted a whole data fetching layer from XState to Query.
 - Spending too much time answering peoples questions on the Tanstack Discord
+- Wrote a genetic algorithm in CUDA C++, back before the AI craze took over
 - Small contributions to Query, tanstack.com, tRPC, etc. Even have a rust-lang pr completed as well. 
 
 ## Editor of choice
