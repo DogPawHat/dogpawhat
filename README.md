@@ -22,7 +22,6 @@ I'm looking for my next role to work on great projects and sound people. Reach o
 - Python
 - Rust
 - [Convex](https://www.convex.dev/)
-- Ruby on Rails
 
 ## Previous Companies
 - Apata
