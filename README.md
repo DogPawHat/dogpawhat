@@ -2,7 +2,7 @@
 
 (It's pronounced KEER-awn)
 
-I'm a Software Developer with over 8 years of experience, currently working at Alludium AI. I've mostly worked with React and Typescript. I have 2 cats and do bouldering and board games in my free time. I chill in Dublin, Ireland.
+I'm a Software Developer with over 9 years of experience. I've mostly worked with React and Typescript. I have 2 cats and do bouldering and board games in my free time. I chill in Dublin, Ireland.
 
 I'm looking for my next role to work on great projects and sound people. Reach out if you think you have something interesting.
 
