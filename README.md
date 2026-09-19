@@ -38,7 +38,7 @@ I'm looking for my next role to work on great projects and sound people. Reach o
 - Small contributions to Query, tanstack.com, tRPC, etc. Even have a rust-lang pr completed as well. 
 
 ## Editor of choice
-Cursor, previosly VS Code
+Zed paired with Codex or Pi
 
 ## OS of choice
 MacOS or Arch Linux
